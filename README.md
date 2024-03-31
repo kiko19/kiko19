@@ -48,9 +48,11 @@ really intersted in codeing and problem solving ⌨️ ...
     <img src="https://pbs.twimg.com/profile_images/1669819199/codeforces-logo-with-upper-beta.png" height="40" width="200" alt="Codeforces logo"  />
   </a>
   <a href="http://www.linkedin.com/in/kareem-ahmed-99a775244" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="200" alt="Codeforces logo"  />
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="200" alt="linkidin logo"  />
   </a>
-
+<a href="https://www.instagram.com/kareem__23__/" target="_blank">
+    <img src="https://i.ytimg.com/vi/LU9zpCZFPJQ/maxresdefault.jpg" height="40" width="200" alt="instagram logo"  />
+  </a>
   
 </div>
 <!--
