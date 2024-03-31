@@ -1,6 +1,6 @@
 ### 👋 Hello World 😄
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/40609142?v=3"  />
-------------------------
+<hr>
 
 i'm Kareem Ahmed from Alexandria,Egypt ...
 <br>
