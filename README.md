@@ -44,7 +44,7 @@ really intersted in codeing and problem solving ⌨️ ...
 </div>
 <hr>
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCv487fj6XvH2uqSa9OVWr3g" target="_blank">
+  <a href="https://codeforces.com/profile/kikoz" target="_blank">
     <img src="https://i.pinimg.com/736x/b4/6e/54/b46e546a3ee4d410f961e81d4a8cae0f.jpg" height="35" alt="youtube logo"  />
   </a>
 </div>
