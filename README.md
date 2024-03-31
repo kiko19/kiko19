@@ -47,6 +47,11 @@ really intersted in codeing and problem solving ⌨️ ...
   <a href="https://codeforces.com/profile/kikoz" target="_BLANK">
     <img src="https://pbs.twimg.com/profile_images/1669819199/codeforces-logo-with-upper-beta.png" height="35" width="200" alt="Codeforces logo"  />
   </a>
+  <a href="http://www.linkedin.com/in/kareem-ahmed-99a775244" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="200" alt="Codeforces logo"  />
+  </a>
+
+  
 </div>
 <!--
 **kiko19/kiko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
