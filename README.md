@@ -5,7 +5,7 @@ i'm Kareem Ahmed from Alexandria,Egypt ...
 <br>
 FrontEnd developer and problem solver 💻 ; 
 <br>
-spent 4 years in Faculty of Computer science Assiut Universty 🧑‍🎓 
+Studied at Faculty of Computer science Assiut Universty 🧑‍🎓 
 <br>
 really intersted in codeing and problem solving ⌨️ ...
 ---
