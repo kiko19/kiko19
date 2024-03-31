@@ -35,9 +35,7 @@ i'm Kareem Ahmed from Egypt & FrontEnd developer and problem solver ,, i spent 4
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 <hr>
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kiko19&theme=default" alt="Layout with last medium posts"  />
-</div>
+
 <!--
 **kiko19/kiko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
