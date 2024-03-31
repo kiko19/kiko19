@@ -1,6 +1,7 @@
 ### 👋 Hello World 😄
 ------------------------
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/40609142?v=3"  />
 i'm Kareem Ahmed from Alexandria,Egypt ...
 <br>
 FrontEnd developer and problem solver 💻 ; 
@@ -9,7 +10,6 @@ Studied at Faculty of Computer science Assiut Universty 🧑‍🎓
 <br>
 really intersted in codeing and problem solving ⌨️ ...
 ---
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/40609142?v=3"  />
 ### ⚡ languages & tools 
 <br>
 <div align="left">
