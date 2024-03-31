@@ -1,9 +1,11 @@
 ### 👋 Hello World 😄
 ------------------------
 
-i'm Kareem Ahmed from Alexandria,Egypt ...
+i'm Kareem Ahmed from Alexandria,Egypt 🇪🇬 ...
 <br>
-i'mFrontEnd developer and problem solver , i spent 4 years in Faculty of Computer science Assiut Universty and really intersted in codeing and problem solving 
+💻FrontEnd developer and problem solver ; 
+<br>
+spent 4 years in Faculty of Computer science Assiut Universty 🧑‍🎓 and really intersted in codeing and problem solving 
 ---
 ### ⚡ languages & tools 
 <br>
