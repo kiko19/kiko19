@@ -53,7 +53,9 @@ really intersted in codeing and problem solving ⌨️ ...
   <a href="http://www.linkedin.com/in/kareem-ahmed-99a775244" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="200" alt="linkidin logo"  />
   </a>
-  
+  <a href="https://www.facebook.com/karim.king.948/" target="_blank">
+    <img src="https://img.favpng.com/5/18/9/facebook-messenger-symbol-like-button-computer-icons-png-favpng-icrVL2zQcgbEtqEJE4vj30Eh8.jpg" height="40" width="70" alt="facebook logo"  />
+  </a>
 </div>
 <!--
 **kiko19/kiko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
