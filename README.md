@@ -43,7 +43,11 @@ really intersted in codeing and problem solving ⌨️ ...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 <hr>
-
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCv487fj6XvH2uqSa9OVWr3g" target="_blank">
+    <img src="https://i.pinimg.com/736x/b4/6e/54/b46e546a3ee4d410f961e81d4a8cae0f.jpg" height="35" alt="youtube logo"  />
+  </a>
+</div>
 <!--
 **kiko19/kiko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
