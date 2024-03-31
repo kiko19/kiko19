@@ -9,6 +9,14 @@ FrontEnd developer and problem solver 💻 ;
 <br>
 Studied at Faculty of Computer science Assiut Universty 🧑‍🎓 
 <br>
+have no experience in software engineering community yet 😕
+<br>
+but i worked as English call center for Monster Reservation Company for 5 Months 🎧 
+<br>
+i also worked for Texting.Biz company in English Account for 3 Months :)
+<br>
+so i think i have a good experience in callcenter community 😅 
+<br>
 really intersted in codeing and problem solving ⌨️ ...
 <br>
 <br>
