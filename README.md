@@ -1,6 +1,6 @@
 ### 👋 Hello World 😄
 <hr>
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.SFViy40-Bw1ngrd8hko8ZQHaHa?w=550&h=550&rs=1&pid=ImgDetMain" style="border-radius:20" />
+<img align="right" height="150" src="https://th.bing.com/th/id/OIP.SFViy40-Bw1ngrd8hko8ZQHaHa?w=550&h=550&rs=1&pid=ImgDetMain" style="border-radius: 20px;" />
 
 
 i'm Kareem Ahmed from Alexandria,Egypt ...
