@@ -44,7 +44,7 @@ really intersted in codeing and problem solving ⌨️ ...
 </div>
 <hr>
 <div align="left">
-  <a href="https://codeforces.com/profile/kikoz" target="_blank">
+  <a href="https://codeforces.com/profile/kikoz" target="_BLANK">
     <img src="https://pbs.twimg.com/profile_images/1669819199/codeforces-logo-with-upper-beta.png" height="35" width="200" alt="Codeforces logo"  />
   </a>
 </div>
