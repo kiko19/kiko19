@@ -51,7 +51,7 @@ really intersted in codeing and problem solving ⌨️ ...
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="200" alt="linkidin logo"  />
   </a>
 <a href="https://www.instagram.com/kareem__23__/" target="_blank">
-    <img src="https://th.bing.com/th/id/R.a1f5eba8d306c4881eabf6d52102502e?rik=IFO8aBHvHH3T8Q&pid=ImgRaw&r=0" height="50" width="80" alt="instagram logo"  />
+    <img src="https://th.bing.com/th/id/R.4997b4033b43a29e12c88d9509ddf58e?rik=dKU0MlLtu5S%2bIg&riu=http%3a%2f%2fvodzilla.co%2fwp-content%2fuploads%2f2016%2f07%2fInstagram-logo-700x400.jpg&ehk=Jw9nXO5R%2fLQ%2bGiVTKDT6WAKpHV5wsMaKzwNzORguycY%3d&risl=&pid=ImgRaw&r=0" height="50" width="80" alt="instagram logo"  />
   </a>
   
 </div>
